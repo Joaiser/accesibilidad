@@ -1,13 +1,17 @@
+# Ignorar todas las imágenes
 *.jpg
 *.jpeg
 *.png
 *.gif
-node_modules/
-package.json
-package-lock.json
-postcss.config.js
-Explicacion css.txt
-*.js
-!index.html
-!index.css
-!index.js
+*.svg
+
+# Ignorar archivos de eslint
+.eslintrc.js
+.eslintrc.cjs
+.eslintrc.yaml
+.eslintrc.yml
+.eslintrc.json
+.eslintignore
+
+# Ignorar el archivo css.txt
+css.txt
