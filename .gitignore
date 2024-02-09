@@ -2,3 +2,12 @@
 *.jpeg
 *.png
 *.gif
+node_modules/
+package.json
+package-lock.json
+postcss.config.js
+Explicacion css.txt
+*.js
+!index.html
+!index.css
+!index.js
