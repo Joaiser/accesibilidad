@@ -15,3 +15,5 @@
 
 # Ignorar el archivo css.txt
 css.txt
+# Ignorar node_modules
+node_modules/
